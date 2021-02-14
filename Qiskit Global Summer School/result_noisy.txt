@@ -1,0 +1,1 @@
+[["qasm", "parity", "Zero", "SPSA", "RY", 0.3430786293721373], ["qasm", "parity", "Zero", "SPSA", "RYRZ", 0.4224011097108429], ["qasm", "parity", "Zero", "SPSA", "SwapRZ", 0.6435205872063248], ["qasm", "parity", "HF", "SPSA", "RY", 0.26403037890718406], ["qasm", "parity", "HF", "SPSA", "RYRZ", 0.4085264575527916], ["qasm", "parity", "HF", "SPSA", "SwapRZ", 0.3852307592386317]]
