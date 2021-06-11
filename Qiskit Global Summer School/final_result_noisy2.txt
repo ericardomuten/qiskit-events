@@ -1,1 +1,0 @@
-[["qasm", "parity", "None", "COBYLA", "RY", 0.3385762324195435], ["qasm", "parity", "None", "SPSA", "RY", 0.28978775069959495], ["qasm", "parity", "HF", "COBYLA", "RY", 0.26098983910167617], ["qasm", "parity", "HF", "SPSA", "RY", 0.2536178720377411]]
