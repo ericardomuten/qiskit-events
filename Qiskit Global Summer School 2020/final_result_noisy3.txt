@@ -1,0 +1,1 @@
+[["qasm", "parity", "HF", "COBYLA", "RY", 0.10855486980475482], ["qasm", "parity", "HF", "SPSA", "RY", 0.080856189554532]]
